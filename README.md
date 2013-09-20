@@ -1,5 +1,4 @@
-# Raytin是什么
-![raytin](/test/logo.png)
+# RaytinJS是什么
 
 > 统一浏览器差异，将原生JavaScript接口封装成命名风格一致，并且语义良好的方法。基于她快速构建Web应用，小巧而实用，这就是Raytin，一个轻量的JavaScript开发类库。
 
