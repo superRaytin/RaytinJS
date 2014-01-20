@@ -1,5 +1,5 @@
 ﻿/*
- * Raytin JavaScript Framework
+ * Raytin JavaScript Library
  * http://raytin.jsfor.com/
  *
  * 作者：柳裟

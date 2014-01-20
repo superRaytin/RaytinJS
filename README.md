@@ -1,4 +1,5 @@
-# RaytinJS是什么
+![test/logo.png]
+# RaytinJS
 
 > 统一浏览器差异，将原生JavaScript接口封装成命名风格一致，并且语义良好的方法。基于她快速构建Web应用，小巧而实用，这就是Raytin，一个轻量的JavaScript开发类库。
 
@@ -13,16 +14,10 @@ Raytin定位为 `敏捷的DOM操作类库`，方法的设计上大量的借鉴�
 #API
 在线API文档: [http://www.jsfor.com/raytin/](http://www.jsfor.com/raytin/selector/get.html)
 
-![raytin](/test/raytin-attr.jpg)
-
-## 如何使用
+## Usage
 
 ```javascipt
-<script type="text/javascript" src="Raytin.core.min.js"></script>
-```
-
-例子：
-```javascript
+<script type="text/javascript" src="Raytin.core.js"></script>
 <script type="text/javascript">
     $DOMReady(function(){
         $event.add($id('#box'), 'click', function(e){
@@ -47,7 +42,7 @@ $animate($id('box'), {
 默认擦除效果类型是 `Quad` ，如果想获得更多的效果，这里提供了动画辅助插件 `Raytin.tween.js` ，引入即可扩展。
 
 ```javascipt
-<script type="text/javascript" src="Raytin.core.min.js"></script>
+<script type="text/javascript" src="Raytin.core.js"></script>
 <script type="text/javascript" src="Raytin.tween.js"></script>
 ```
 
